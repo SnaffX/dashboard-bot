@@ -1,0 +1,10 @@
+{
+    "bot_id": "12345678",
+    "bot_token":"12345678",
+    "bot_secret":"12345678",
+    "bot_name":"Nome do BOT",
+    "porta":"80",
+    "dono_id":"12345678",
+    "titulo_site":"Nome do BOT",
+    "descricao_site":" Descrição do site"
+}
